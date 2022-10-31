@@ -3,7 +3,8 @@
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
-# zmeena 1
+# zmena 1
+# zmena 2
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
