@@ -7,6 +7,7 @@
 # zmena 2
 # zmena 3
 # todo: udelat zmenu z domova
+# zmena z domova
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
